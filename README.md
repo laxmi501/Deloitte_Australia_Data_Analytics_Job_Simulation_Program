@@ -33,6 +33,15 @@ This repository contains my solutions for the **Deloitte Data Analytics Virtual 
 - Tableau
 - Microsoft Excel
 ---
+# Skills Gained 🪼
+
+   **1. Data Analysis:** _Cleaning, organizing, and interpreting data to draw actionable conclusions._
+
+   **2. Data Visualization:** _Creating dashboards and visualizations using Tableau._
+
+   **3. Excel Proficiency:** _Using advanced Excel functions for data classification and analysis._
+
+   **4. Critical Thinking:** _Applying analytical thinking to solve real-world business problems._
 
 ## Deloitte Certificate
 

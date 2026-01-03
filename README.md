@@ -46,7 +46,7 @@ This repository contains my solutions for the **Deloitte Data Analytics Virtual 
 ## Deloitte Certificate
 
 
-![Certificate Pic]
+![Certificate Pic](https://github.com/laxmi501/Deloitte_Australia_Data_Analytics_Job_Simulation_Program/blob/c869a471361a74b374bcc6dd4544c0ef2c5af2dc/Deloitte_Certificate.pdf)
 
 ---
 Gained hands-on-experience in data analysis, dashboarding, and investigative classification to support business decisions.

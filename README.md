@@ -47,6 +47,9 @@ This repository contains my solutions for the **Deloitte Data Analytics Virtual 
 
 
 ![Certificate Pic](https://github.com/laxmi501/Deloitte_Australia_Data_Analytics_Job_Simulation_Program/blob/c869a471361a74b374bcc6dd4544c0ef2c5af2dc/Deloitte_Certificate.pdf)
+# Official Link :
+https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_xscFZoRnw9saACvGD_1763886527598_completion_certificate.pdf
 
 ---
+
 Gained hands-on-experience in data analysis, dashboarding, and investigative classification to support business decisions.
